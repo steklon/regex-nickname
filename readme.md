@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cn2ov0h7vn8f9vh2?svg=true)](https://ci.appveyor.com/project/steklon/regex-nickname)
+
 ## Никнеймы
 
 ### Легенда
